@@ -6,7 +6,7 @@
 
 ## Description
 
-_This web page displays Dillon Titcomb's resume, career and personal history, and programming accomplishments. It is an exercise in HTML and CSS styling using Bootstrap._
+_This web page displays Dillon Titcomb's career history, personal history, and programming accomplishments. It is an exercise in HTML and CSS styling using Bootstrap._
 
 ## Setup/Installation Requirements
 
@@ -16,7 +16,7 @@ _This web page displays Dillon Titcomb's resume, career and personal history, an
 
 ## Known Bugs
 
-_There are no known bugs._
+_I had difficulty getting the title colors to function when using the .panel panel-info class. As a result, the existing styling was input via the secondary CSS stylesheet.
 
 ## Support and contact details
 
@@ -27,6 +27,10 @@ _Please contact me at dillontitcomb@gmail.com with inquiries._
 * _HTML_
 * _CSS_
 * _Bootstrap CSS stylesheet_
+
+## Link to page
+
+https://dillontitcomb.github.io/portfolio/
 
 ### License
 
