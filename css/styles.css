@@ -2,6 +2,11 @@ body {
   background-color: #f6f6f6;
 }
 
+.button {
+  font-size: 16px;
+  font-weight: 200;
+}
+
 .panel-title {
   padding: 6px;
   background-color: #B2DEEC;
