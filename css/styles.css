@@ -8,3 +8,7 @@
   padding: 6px;
   background-color: lightblue;
 }
+
+.description {
+  font-style: italic;
+}
