@@ -16,13 +16,25 @@ body {
   font-weight: bold;
 }
 
+.jumbotron {
+  background-color: white;
+}
+
+.well {
+  background-color: white;
+}
+
 .abtme h4 {
-  font-weight: 250;
+  font-weight: bold;
   padding-bottom: 12px;
 }
 
 .abtme li {
   padding-right: 10px;
+}
+
+.contactme .col-xs-2 a {
+  padding-bottom: 30px;
 }
 
 #header {
@@ -39,12 +51,21 @@ body {
   font-weight: 200;
 }
 
+#header3 {
+  padding-top: 20px;
+  padding-bottom: 22px;
+  text-align: center;
+  font-weight: 200;
+}
+
 #minny {
-  width: 8%;
-  float: left;
+  margin-right: 93px;
+  width: 30%;
+  float: right;
 }
 
 #lake {
-  width: 10%;
-  float: right;
+  margin-left: 93px;
+  width: 37%;
+  float:left;
 }
