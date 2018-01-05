@@ -4,7 +4,9 @@ body {
 
 .panel-title {
   padding: 6px;
-  background-color: lightblue;
+  background-color: #A2D7E8;
+  font-weight: 220;
+  text-align: center;
 }
 
 .description {
@@ -39,7 +41,7 @@ body {
 
 #header {
   padding-bottom: 30px;
-  padding-top: 10px;
+  padding-top: 5px;
   text-align: center;
   font-weight: 200;
 }
@@ -58,6 +60,12 @@ body {
   font-weight: 200;
 }
 
+#header4 {
+  padding-bottom: 22px;
+  text-align: center;
+  font-weight: 200;
+}
+
 #minny {
   margin-right: 93px;
   width: 30%;
@@ -68,4 +76,16 @@ body {
   margin-left: 93px;
   width: 37%;
   float:left;
+}
+
+#racketleft {
+  margin-top: 40px;
+  width: 50%;
+  float: left;
+}
+
+#racketright {
+  margin-top: 40px;
+  width: 50%;
+  float: right;
 }
