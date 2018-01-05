@@ -4,7 +4,7 @@ body {
 
 .panel-title {
   padding: 6px;
-  background-color: #A2D7E8;
+  background-color: #B2DEEC;
   font-weight: 220;
   text-align: center;
 }
@@ -20,10 +20,12 @@ body {
 
 .jumbotron {
   background-color: white;
+  border-top: 12px solid #B2DEEC;
 }
 
 .well {
   background-color: white;
+  border-top: 12px solid #B2DEEC;
 }
 
 .abtme h4 {
@@ -61,7 +63,7 @@ body {
 }
 
 #header4 {
-  padding-bottom: 22px;
+  padding-bottom: 26px;
   text-align: center;
   font-weight: 200;
 }
@@ -76,6 +78,14 @@ body {
   margin-left: 93px;
   width: 37%;
   float:left;
+}
+
+img.me{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  border: 12px solid #A2D7E8;
 }
 
 #racketleft {
