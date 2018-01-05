@@ -33,7 +33,18 @@ body {
 }
 
 #header2 {
+  padding-top: 10px;
   padding-bottom: 30px;
   text-align: center;
   font-weight: 200;
+}
+
+#minny {
+  width: 8%;
+  float: left;
+}
+
+#lake {
+  width: 10%;
+  float: right;
 }
