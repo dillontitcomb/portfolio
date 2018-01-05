@@ -1,7 +1,5 @@
-
-
-.header {
-  text-align: center;
+body {
+  background-color: #f6f6f6;
 }
 
 .panel-title {
@@ -11,4 +9,22 @@
 
 .description {
   font-style: italic;
+}
+
+.danger {
+  color: red;
+  font-weight: bold;
+}
+
+#header {
+  padding-bottom: 30px;
+  padding-top: 10px;
+  text-align: center;
+  font-weight: 200;
+}
+
+#header2 {
+  padding-bottom: 30px;
+  text-align: center;
+  font-weight: 200;
 }
